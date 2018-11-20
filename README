@@ -1,0 +1,5 @@
+This is a RAGGED game engine practice after I read the book Game Engine Architecture.
+It's arch is imitate "irrlicht".
+Some ideas effected by "ygopro".
+Thanks for the open-source projects' authors and contributors.
+Because I builded this in VS2017 but now I use Linux, there may be a long time for me not to maintain this.
